@@ -10,19 +10,6 @@ dataset, covering 205 cars across 26 variables. The analysis
 investigates pricing, fuel efficiency, engine size, and manufacturer
 representation.
 
-## Repository Structure
-
-EDA_Automobiles/
-├── automobiles_eda.ipynb                 # Main EDA notebook
-├── automobile.txt                        # Raw dataset
-├── automobiles_raw.csv                   # Copy of raw data before cleaning
-├── EDA Report - Automobile Dataset.pdf   # EDA report
-└── Figures/                              # Charts generated during analysis
-    ├── most_expensive_cars_mpg.png
-    ├── avg_mpg_by_manufacturer.png
-    ├── largest_engines.png
-    └── models_per_manufacturer.png
-
 ## Analysis Questions
 
 1. Which automobiles are in the hatchback category?
