@@ -1,6 +1,7 @@
-# Word temporary files
-~$*.docx
+# Word documents
 *.docx
 
-# Word lock files
+# Word temporary files
+~$*.docx
 ~$*.doc
+*.tmp
